@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/schema#",
   "$schemaVersion": "0.0.1",
-  "$id": "https://smart-data-models.github.io/datamodel.AutonomousMobileRobot/AutonomousMobileRobot-schema.json",
+  "$id": "https://raw.githubusercontent.com/urabe0225/incubated/Robot/test/SMARTROBOTICS/AutonomousMobileRobot/AutonomousMobileRobot-schema.json",
   "title": "Autonomous Mobile Robots data model JSON schema",
   "description": "Common Building Blocks for Autonomous Mobile Robots",
   "type": "object",

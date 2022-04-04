@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/schema#",
   "$schemaVersion": "0.0.1",
-  "$id": "https://smart-data-models.github.io/datamodel.AutonomousMobileRobot/CommandMessage/schema.json",
+  "$id": "https://raw.githubusercontent.com/urabe0225/incubated/Robot/test/SMARTROBOTICS/AutonomousMobileRobot/CommandMessage/schema.json",
   "description": "Command message",
   "modelTags": "",
   "type": "object",
@@ -14,13 +14,13 @@
       ]
     },
     "commandTime": {
-      "$ref": "https://smart-data-models.github.io/dataModel.AutonomousMobileRobot/AutonomousMobileRobot-schema.json#/definitions/commandTime"
+      "$ref": "https://raw.githubusercontent.com/urabe0225/incubated/Robot/test/SMARTROBOTICS/AutonomousMobileRobot/AutonomousMobileRobot-schema.json#/definitions/commandTime"
     },
     "command": {
-      "$ref": "https://smart-data-models.github.io/dataModel.AutonomousMobileRobot/AutonomousMobileRobot-schema.json#/definitions/command"
+      "$ref": "https://raw.githubusercontent.com/urabe0225/incubated/Robot/test/SMARTROBOTICS/AutonomousMobileRobot/AutonomousMobileRobot-schema.json#/definitions/command"
     },
     "waypoints": {
-      "$ref": "https://smart-data-models.github.io/dataModel.AutonomousMobileRobot/AutonomousMobileRobot-schema.json#/definitions/waypoints"
+      "$ref": "https://raw.githubusercontent.com/urabe0225/incubated/Robot/test/SMARTROBOTICS/AutonomousMobileRobot/AutonomousMobileRobot-schema.json#/definitions/waypoints"
     }
   },
   "required": [
